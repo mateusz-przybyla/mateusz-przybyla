@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h3 align="left">Statistics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&show_icons=true&theme=dark&title_color=fda5f6&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="mateusz-przybyla" /></p>
+
 <!--
 **mateusz-przybyla/mateusz-przybyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
