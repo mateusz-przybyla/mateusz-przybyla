@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi, I'm Mateusz 👋
 
-<h3 align="left">Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&show_icons=true&theme=dark&title_color=fda5f6&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="mateusz-przybyla" /></p>
+### 🚀 About Me
+I'm building my portfolio and steadfastly preparing to become a software/web developer.
 
-<!--
-**mateusz-przybyla/mateusz-przybyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 At present
+I'm currenty learning Javascript with the Web Development Bootcamp.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+C++, GIT, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+This section is under construction :)
+
+### Statistics
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&show_icons=true&theme=dark&title_color=fda5f6&text_color=ffffff&hide_border=true&locale=en&layout=compact")
+
+### 📫 How to reach me:
+mateusz.przybyla.programista@gmail.com
