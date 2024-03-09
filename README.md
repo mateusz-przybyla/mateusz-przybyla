@@ -1,9 +1,11 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🚀 About Me
-I'm building my portfolio and steadfastly preparing to become a software/web developer.
+I'm a structural engineer and I design buildings. One day I started coding and I realised that it brought me lot of satisfaction.
+Right now, I spend a lot of time building my portfolio and steadfastly preparing to become a professional software/web developer.
 
 ### 🌱 At present
+I'm taking part in the Przyszly Programista Project.\
 I'm currenty learning Javascript with the Web Development Bootcamp.
 
 ### 🛠 Skills
