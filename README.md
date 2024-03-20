@@ -11,6 +11,10 @@ I'm currenty learning Javascript with the Web Development Bootcamp.
 ### 🛠 Skills
 C++, GIT, HTML, CSS
 
+### ✔️ IT Achievements & Certificates
+Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
+[Here](https://github.com/mateusz-przybyla/My-Certificates.git) I have placed certificates of completed courses.
+
 ### 🔗 Links
 This section is under construction :)
 
