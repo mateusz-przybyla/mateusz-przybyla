@@ -1,7 +1,7 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🚀 About Me
-I'm a structural engineer and I design buildings. One day I started coding and I realised that it brought me lot of satisfaction.
+I'm a creative structural engineer specializing in reinforced concrete structures. One day I started coding and realised that it brings me a lot of satisfaction.
 Right now, I spend a lot of time building my portfolio and steadfastly preparing to become a professional software/web developer.
 
 ### 🌱 At present
@@ -9,7 +9,7 @@ I'm taking part in the Przyszly Programista Project.\
 I'm currenty learning Javascript with the Web Development Bootcamp.
 
 ### 🛠 Skills
-C++, GIT, HTML, CSS
+GIT, C++, HTML, CSS, JavaScript (+ jQuery)
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
