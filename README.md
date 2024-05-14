@@ -5,11 +5,11 @@ I'm a creative structural engineer specializing in reinforced concrete structure
 Right now, I spend a lot of time building my portfolio and steadfastly preparing to become a professional software/web developer.
 
 ### 🌱 At present
-I'm taking part in the Przyszly Programista Project.\
-I'm currenty learning Javascript with the Web Development Bootcamp.
+I'm taking part in the Przyszly Programista Project and Web Development Bootcamp.\
+I'm currenty learning PHP and SQL languages.
 
 ### 🛠 Skills
-GIT,  C++,  HTML,  CSS,  JavaScript (+ jQuery)
+GIT,  C++,  HTML,  CSS (+ Bootstrap),  JavaScript (+ jQuery)
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
