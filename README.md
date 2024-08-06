@@ -2,14 +2,14 @@
 
 ### 🚀 About Me
 I'm a creative structural engineer specializing in reinforced concrete structures. One day I started coding and realized that it brings me a lot of satisfaction.
-Right now, I spend a lot of time building my portfolio and steadfastly preparing to become a professional software/web developer.
+Right now, I spend a lot of time building my portfolio and consequently preparing to become a professional software/web developer.
 
 ### 🌱 At present
-I'm taking part in the Przyszly Programista Project.\
-I'm currenty learning PHP and SQL languages.
+I'm taking part in the PrzyszlyProgramista.pl course.\
+I'm currently learning Node.js and React.js.
 
-### 🛠 Technologies
-GIT,  C++,  HTML,  CSS (+ Bootstrap),  JavaScript (+ jQuery)
+### 🛠 Technologies used to build my portfolio
+*** PHP *** MySQL *** C++ *** HTML *** CSS (+ Bootstrap) *** JavaScript ***
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
