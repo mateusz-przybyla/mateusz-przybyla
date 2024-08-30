@@ -9,7 +9,7 @@ I'm taking part in the PrzyszlyProgramista.pl course.\
 I'm currently learning Node.js and React.js.
 
 ### 🛠 Technologies used to build my portfolio
-*** PHP *** MySQL *** C++ *** HTML *** CSS (+ Bootstrap) *** JavaScript ***
+*** PHP (+ Laravel) *** MySQL *** C++ *** HTML *** CSS (+ Bootstrap) *** JavaScript ***
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
