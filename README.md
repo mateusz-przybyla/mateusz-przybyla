@@ -1,7 +1,7 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🚀 About Me
-I'm a creative structural engineer specializing in reinforced concrete structures. One day I started coding and realized that it brings me a lot of satisfaction.
+I'm a structural engineer specializing in reinforced concrete structures. One day I started coding and realized that it brings me a lot of satisfaction.
 Right now, I spend a lot of time building my portfolio and consequently preparing to become a professional software/web developer.
 
 ### 🌱 At present
@@ -9,7 +9,7 @@ I'm taking part in the PrzyszlyProgramista.pl course.\
 I'm currently learning Node.js and React.js.
 
 ### 🛠 Technologies used to build my portfolio
-*** PHP (+ Laravel) *** MySQL *** C++ *** HTML *** CSS (+ Bootstrap) *** JavaScript ***
+*** Node.js (with Express.js) *** PHP (with Laravel) *** MySQL *** JavaScript *** CSS (with Bootstrap) *** HTML *** C++ ***
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
