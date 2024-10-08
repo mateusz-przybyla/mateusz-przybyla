@@ -6,10 +6,10 @@ Right now, I spend a lot of time building my portfolio and consequently preparin
 
 ### 🌱 At present
 I'm taking part in the PrzyszlyProgramista.pl course.\
-I'm currently learning Node.js and React.js.
+I'm currently learning React.js.
 
 ### 🛠 Technologies used to build my portfolio
-*** Node.js (with Express.js) *** PHP (with Laravel) *** MySQL *** JavaScript *** CSS (with Bootstrap) *** HTML *** C++ ***
+*** Node.js (with Express.js) *** PostgreSQL *** PHP (with Laravel) *** MySQL *** JavaScript *** CSS (with Bootstrap) *** HTML *** C++ ***
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
