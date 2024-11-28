@@ -5,21 +5,21 @@ I'm a structural engineer specializing in reinforced concrete structures. One da
 Right now, I spend a lot of time building my portfolio and consequently preparing to become a professional software/web developer.
 
 ### 🌱 At present
-I'm taking part in the PrzyszlyProgramista.pl course.\
+I'm taking part in the PrzyszlyProgramista.pl course.
 
 ### 🛠 Technologies used to build my portfolio
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 3px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50" /> " "
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" />
-  <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="php" width="50" height="50" /> " "
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" /> &nbsp; 
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="php" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="50" height="50" /> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" />
 </p>
 
