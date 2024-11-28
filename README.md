@@ -11,8 +11,8 @@ I'm currently learning React.js.
 ### 🛠 Technologies used to build my portfolio
 *** Node.js (with Express.js) *** PostgreSQL *** PHP (with Laravel) *** MySQL *** JavaScript *** CSS (with Bootstrap) *** HTML *** C++ ***
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/></code>
+<code<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code>
 
 ### ✔️ IT Achievements & Certificates
 Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
