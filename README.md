@@ -31,7 +31,7 @@ Very important thing is to learn from several sources. This provides a better un
 This section is under construction :)
 
 ### ⚡️ Statistics
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=true" alt="mateusz-przybyla" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=false" alt="mateusz-przybyla" /></p>
 
 ### 📫 How to reach me:
 mateusz.przybyla.programista@gmail.com
