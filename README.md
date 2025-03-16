@@ -1,8 +1,8 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🚀 About Me
-I'm a structural engineer specializing in reinforced concrete structures. One day I started coding and realized that it brings me a lot of satisfaction.
-Right now, I spend a lot of time building my portfolio and consequently preparing to become a professional software/web developer.
+I'm a structural engineer specializing in reinforced concrete structures. One day, I started coding and realized how much satisfaction it gives to me.
+Now, I spend a lot of time building my portfolio and preparing to become a professional software/web developer.
 
 ### 🌱 At present
 At the beginning of December 2024, I successfully passed the recruitment process for a startup related to audio and video file transcription, where I am developing the application from the developer's side.
@@ -34,4 +34,4 @@ https://mateusz-przybyla.profesjonalnyprogramista.pl
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=false" alt="mateusz-przybyla" /></p>
 
 ### 📫 How to reach me:
-mateusz.przybyla.programista@gmail.com
+mateusz.piotr.przybyla@gmail.com
