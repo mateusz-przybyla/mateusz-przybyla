@@ -5,7 +5,7 @@ I'm a structural engineer specializing in reinforced concrete structures. One da
 Right now, I spend a lot of time building my portfolio and consequently preparing to become a professional software/web developer.
 
 ### 🌱 At present
-I'm taking part in the PrzyszlyProgramista.pl course.
+At the beginning of December 2024, I successfully passed the recruitment process for a startup related to audio and video file transcription, where I am developing the application from the developer's side.
 
 ### 🛠 Technologies used to build my portfolio
 <p>
@@ -24,11 +24,11 @@ I'm taking part in the PrzyszlyProgramista.pl course.
 </p>
 
 ### ✔️ IT Achievements & Certificates
-Very important thing is to learn from several sources. This provides a better understanding of the topics we are learning.\
+It is very important to learn from multiple sources, as this provides a better understanding of the topics we are studying.\
 [Here](https://github.com/mateusz-przybyla/My-Certificates.git) I have placed certificates of completed courses.
 
 ### 🔗 Links
-This section is under construction :)
+https://mateusz-przybyla.profesjonalnyprogramista.pl
 
 ### ⚡️ Statistics
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=false" alt="mateusz-przybyla" /></p>
