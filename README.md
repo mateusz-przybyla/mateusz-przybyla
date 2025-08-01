@@ -5,13 +5,12 @@ I'm a structural engineer specializing in reinforced concrete structures. One da
 Now, I spend a lot of time building my portfolio and preparing to become a professional developer.
 
 ### 🌱 At present
-At the beginning of December 2024, I successfully passed the recruitment process for a startup related to audio and video file transcription, where I am developing the application from the developer's side.
+I am currently learning the Python programming language along with the Flask microframework.
 
 ### 🛠 Technologies used to build my portfolio
 <p>
   <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="php" width="50" height="50" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="symfony" width="50" height="50" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50" /> &nbsp;
