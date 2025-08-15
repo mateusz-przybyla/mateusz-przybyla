@@ -9,18 +9,16 @@ I am currently learning:
 - Flask
 
 ### 🔵 Main Stack
-- PHP
-- Symfony
+- PHP, Symfony
 - MySQL
 - JavaScript
 - Bootstrap
-- Docker
+- Docker, Git
 
 ### 🔵 Other Technologies used to build my portfolio
  - React.js, Express.js
  - Tailwind CSS
  - C++
- - Git
 
 ### 🔵 Certificates
 It is very important to learn from multiple sources, as this provides a better understanding of the topics we are studying.\
