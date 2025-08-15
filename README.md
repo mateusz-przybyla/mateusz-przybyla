@@ -16,7 +16,7 @@ I am currently learning:
 - Docker, Git
 
 ### 🔵 Other Technologies used to build my portfolio
- - React.js, Express.js
+ - React.js, Express.js, PostgreSQL
  - Tailwind CSS
  - C++
 
