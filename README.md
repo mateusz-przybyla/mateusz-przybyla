@@ -23,6 +23,3 @@ I am currently learning:
 ### 🔵 Certificates
 It is very important to learn from multiple sources, as this provides a better understanding of the topics we are studying.\
 [Here](https://github.com/mateusz-przybyla/My-Certificates.git) I have placed certificates of completed courses.
-
-### 🔵 Statistics
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=false" alt="mateusz-przybyla" /></p>
