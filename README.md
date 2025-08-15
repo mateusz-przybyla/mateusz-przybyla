@@ -6,6 +6,10 @@ Now, I spend a lot of time building my portfolio and preparing to become a profe
 
 ### 🌱 At present
 I am currently learning the Python programming language along with the Flask microframework.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
+</p>
 
 ### 🛠 Technologies used to build my portfolio
 <p>
@@ -28,7 +32,7 @@ I am currently learning the Python programming language along with the Flask mic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" />
 </p>
 
-### ✔️ IT Achievements & Certificates
+### ✔️ Certificates
 It is very important to learn from multiple sources, as this provides a better understanding of the topics we are studying.\
 [Here](https://github.com/mateusz-przybyla/My-Certificates.git) I have placed certificates of completed courses.
 
@@ -38,5 +42,5 @@ https://mateusz-przybyla.profesjonalnyprogramista.pl
 ### ⚡️ Statistics
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusz-przybyla&layout=compact&theme=buefy&hide_border=false" alt="mateusz-przybyla" /></p>
 
-### 📫 How to reach me:
+### 📫 How to reach me
 mateusz.piotr.przybyla@gmail.com
