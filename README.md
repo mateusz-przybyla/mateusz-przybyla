@@ -4,9 +4,9 @@
 I'm a Structural Engineer specializing in reinforced concrete structures and a self-taught, passionate Backend Developer.
 
 ### 🔵 At present
-I am currently learning:
+I am currently learning:\
 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="20" height="20" /> Python\
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="20" height="20" /> Flask\
+• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="20" height="20" /> Flask
 
 ### 🔵 Main Stack
 <p>
