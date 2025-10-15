@@ -5,16 +5,16 @@ I'm a Structural Engineer specializing in reinforced concrete structures and a s
 
 ### 🔵 At present
 I am currently learning:
-- Python, Flask
+- Python, Flask, Redis
 
 ### 🔵 Main Stack
+- Python, Flask
 - PHP, Symfony
-- MySQL
-- JavaScript
-- Docker, Git
+- MySQL, PostgreSQL
+- Docker, Redis, Git
 
 ### 🔵 Other Technologies used to build my portfolio
- - React.js, Express.js, PostgreSQL
+ - JavaScript, React.js, Express.js
  - Bootstrap, Tailwind CSS
  - C++
 
