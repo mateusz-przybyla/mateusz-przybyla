@@ -7,7 +7,7 @@ I enjoy designing reliable backend systems, building clean REST APIs and learnin
 ### 🔵 At present
 I am currently learning and working with:
 - Python, Flask (REST API development)
-- Redis, RQ, RQ-Scheduler (background workers & scheduled tasks)
+- Redis, RQ (background workers & scheduled tasks)
 
 ### 🔵 Main Stack
 - Python, Flask
