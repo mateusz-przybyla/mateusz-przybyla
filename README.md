@@ -1,25 +1,26 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🔵 About Me
-Structural Engineer specializing in reinforced concrete structures and a self-taught, passionate Backend Developer.\
-I enjoy designing reliable backend systems, building clean REST APIs and learning how things work under the hood.
+Structural Engineer specializing in reinforced concrete structures and a self-taught, passionate Backend Developer.
 
-### 🔵 At present
-I am currently learning and working with:
-- Python, Flask (REST API development)
-- Redis, RQ (background workers & scheduled tasks)
+I am focused on building REST APIs as learning and portfolio projects and working with relational databases and background jobs, with an emphasis on clean and maintainable backend code.
+
+### 🔵 Currently learning & improving
+- Monitoring and Observability fundamentals
+- Prometheus and Grafana (metrics, dashboards, alerting)
+- Celery and Redis (background jobs, task queues)
 
 ### 🔵 Main Stack
-- Python, Flask
-- PHP, Symfony
-- MySQL, PostgreSQL
-- Docker, Redis, Git
+- **Backend:** Python, Flask · PHP, Symfony
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Infrastructure:** Docker, Redis
+- **Tools:** Git
 
-### 🔵 Other technologies I have experimented with
- - JavaScript, React.js, Express.js
- - Bootstrap, Tailwind CSS
- - C++
+### 🔵 Other technologies
+- JavaScript
+- Bootstrap, Tailwind CSS
+- C++
 
 ### 🔵 Certificates
-Learning from multiple sources is essential - it helps develop broader perspective and deeper understanding.\
-You can find my collection of completed course certificates [here](https://github.com/mateusz-przybyla/My-Certificates.git)
+Learning from multiple sources helps me build a broader perspective and deeper understanding.
+You can find my completed course certificates [here](https://github.com/mateusz-przybyla/My-Certificates.git)
