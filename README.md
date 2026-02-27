@@ -1,24 +1,26 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🔵 About Me
-Structural Engineer specializing in reinforced concrete structures and a self-taught, passionate Backend Developer.
+Backend Developer specializing in Python and Flask.
 
-I am focused on building REST APIs as learning and portfolio projects and working with relational databases and background jobs, with an emphasis on clean and maintainable backend code.
+I build REST APIs, work with relational databases and design applications with a clear architecture and background processing.  
+I focus on clean, maintainable backend code and practical system design.
 
 ### 🔵 Currently learning & improving
 - Monitoring and Observability fundamentals
-- Prometheus and Grafana (metrics, dashboards, alerting)
-- Celery and Redis (background jobs, task queues)
+- Prometheus and Grafana
+- Advanced backend architecture patterns 
 
 ### 🔵 Main Stack
-- **Backend:** Python, Flask · PHP, Symfony
+- **Backend:** Python (Flask), PHP
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Infrastructure:** Docker, Redis
 - **Tools:** Git
+- **Testing:** Pytest
 
 ### 🔵 Other technologies
 - JavaScript
-- Bootstrap, Tailwind CSS
+- Bootstrap
 - C++
 
 ### 🔵 Certificates
