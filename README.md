@@ -3,7 +3,7 @@
 ### 🔵 About Me
 Backend Developer focused on building web application backends and REST APIs.
 
-I work with relational databases, design applications with a clear architecture and background processing and focus on clean, maintainable code.
+I work with relational databases, design applications with a clear architecture and background processing, and focus on clean, maintainable code.
 
 ### 🔵 Currently learning & improving
 - Monitoring and Observability fundamentals
