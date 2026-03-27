@@ -18,8 +18,8 @@ I work with relational databases, design applications with a clear architecture 
 - **Testing:** Pytest
 
 ### 🔵 Other technologies
-- JavaScript
-- Bootstrap
+- JavaScript, React
+- CSS, Bootstrap
 - C++
 
 ### 🔵 Certificates
