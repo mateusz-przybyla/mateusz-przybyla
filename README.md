@@ -1,25 +1,21 @@
 ## Hi, I'm Mateusz 👋
 
 ### 🔵 About Me
-Backend Developer focused on building web application backends and REST APIs.
-
-I work with relational databases, design applications with a clear architecture and background processing, and focus on clean, maintainable code.
+I build web applications and REST APIs, focusing on backend development and clean architecture.
 
 ### 🔵 Currently learning & improving
 - Monitoring and Observability fundamentals
-- Prometheus and Grafana
-- Advanced backend architecture patterns 
+- Refreshing React
 
 ### 🔵 Main Stack
 - **Backend:** Python (Flask), PHP
-- **Databases:** MySQL, PostgreSQL, SQLite
+- **Frontend:** JavaScript, Bootstrap, CSS
+- **Databases:** MySQL, PostgreSQL
 - **Infrastructure:** Docker, Redis
 - **Tools:** Git
 - **Testing:** Pytest
 
 ### 🔵 Other technologies
-- JavaScript, React
-- CSS, Bootstrap
 - C++
 
 ### 🔵 Certificates
